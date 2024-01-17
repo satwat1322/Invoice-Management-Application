@@ -3,7 +3,7 @@ AI-Enabled FinTech B2B Invoice Management Application: Streamline invoice manage
 Objective
 The objective of the summer internship project is: To build a Machine Learning Model to predict the order amount, customers might make in the upcoming days. You will be receiving an orders dataset that contains the past orders information and behavior of various buyers. Based on the previous orders patterns, the ML model needs to predict what will be the amount of orders the customer is going to place in the upcoming days.
 
-Project Requirements
+# Project Requirements
 The project requires the following packages to be installed:
 
 Pandas
@@ -16,7 +16,7 @@ To install these packages, you can run the following command:
 
 pip install -r requirements.txt
 
-Milestones
+# Milestones
 The project consists of several milestones, each focusing on a specific task. Here is a summary of the milestones:
 
 Data Sanity : In this milestone, we perform data cleaning and preprocessing tasks such as handling missing values, formatting date columns, removing inconsistent records, and converting currency values to USD.
@@ -29,5 +29,5 @@ ML Models and Evaluations : This milestone focuses on building and evaluating di
 
 Please refer to the individual Jupyter notebooks in the notebooks/ directory for detailed explanations and code implementation for each milestone.
 
-Conclusion
+# Conclusion
 This project provides a framework for predicting order amounts using Machine Learning techniques. By following the milestones and implementing the necessary tasks, you can build and evaluate models for order amount prediction. Feel free to customize and expand upon the project to suit your specific requirements.
